@@ -1,0 +1,5 @@
+server:
+  port: 18060
+spring:
+  application:
+    name: code-ui
